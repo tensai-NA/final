@@ -49,5 +49,6 @@ if(isset($_POST['del'])){
     ?>
     </form>
     </table>
+</div>
 </body>
 </html>
